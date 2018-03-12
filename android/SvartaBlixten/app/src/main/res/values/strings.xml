@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SvartaBlixten</string>
+    <string name="clear_btn_txt">Rensa</string>
+    <string name="program_btn_txt">Programmera</string>
+    <string name="instructions_to_send_tet">INSTRUKTIONER ATT SKICKA</string>
+</resources>
